@@ -1,12 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\CSharpEgitimKampi\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive - Inforra Bilgi Teknolojileri\\Belgeler\\GitHub\\CSharpEgitimKampi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D836EC-EF66-4B36-8638-2ADFE64A8321}|06_Arrays\\06_Arrays.csproj|c:\\users\\user\\onedrive - inforra bilgi teknolojileri\\belgeler\\github\\csharpegitimkampi\\06_arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D836EC-EF66-4B36-8638-2ADFE64A8321}|06_Arrays\\06_Arrays.csproj|solutionrelative:06_arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B76CE04-A938-4C82-8203-2EECA67DC3B4}|07_ForeachLoop\\07_ForeachLoop.csproj|c:\\users\\user\\onedrive - inforra bilgi teknolojileri\\belgeler\\github\\csharpegitimkampi\\07_foreachloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B76CE04-A938-4C82-8203-2EECA67DC3B4}|07_ForeachLoop\\07_ForeachLoop.csproj|solutionrelative:07_foreachloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Inforra Bilgi Teknolojileri\\Belgeler\\GitHub\\CSharpEgitimKampi\\06_Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "06_Arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Inforra Bilgi Teknolojileri\\Belgeler\\GitHub\\CSharpEgitimKampi\\06_Arrays\\Program.cs",
+              "RelativeToolTip": "06_Arrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:16:15.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Inforra Bilgi Teknolojileri\\Belgeler\\GitHub\\CSharpEgitimKampi\\07_ForeachLoop\\Program.cs",
+              "RelativeDocumentMoniker": "07_ForeachLoop\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Inforra Bilgi Teknolojileri\\Belgeler\\GitHub\\CSharpEgitimKampi\\07_ForeachLoop\\Program.cs",
+              "RelativeToolTip": "07_ForeachLoop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:16:09.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

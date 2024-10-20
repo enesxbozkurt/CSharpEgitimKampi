@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{67D96453-E807-4D8D-94C8-1A5079F1DB1D}</ProjectGuid>
+    <ProjectGuid>{9B76CE04-A938-4C82-8203-2EECA67DC3B4}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_07_ForeachLoop</RootNamespace>
     <AssemblyName>07_ForeachLoop</AssemblyName>

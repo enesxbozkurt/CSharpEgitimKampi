@@ -49,22 +49,22 @@ namespace _07_ForeachLoop
 
             #region ExampleExamSystemApp
             Console.WriteLine("Sınıfınızda kaç öğrenci var");
-            int  studentCount=int.Parse(Console.ReadLine());
+            int studentCount = int.Parse(Console.ReadLine());
 
-            string[] students=new string[studentCount];
-            string[] studentName=new string[studentCount];
-            double[] studentAverage=new double[studentCount];
+            string[] students = new string[studentCount];
+            string[] studentName = new string[studentCount];
+            double[] studentAverage = new double[studentCount];
             double totalExamResult = 0;
 
             for (int i = 0; i < studentCount; i++)
             {
-                Console.WriteLine($"{i+1}. öğrencinin ismini giriniz: ");
+                Console.WriteLine($"{i + 1}. öğrencinin ismini giriniz: ");
                 studentName[i] = Console.ReadLine();
 
                 for (int j = 0; j < 3; j++)
                 {
-                    Console.WriteLine($"{studentName[i]} isimli öğrencinin {j+1}. notunu giriniz: ");
-                    double value=double.Parse(Console.ReadLine());
+                    Console.WriteLine($"{studentName[i]} isimli öğrencinin {j + 1}. notunu giriniz: ");
+                    double value = double.Parse(Console.ReadLine());
                     totalExamResult = value + totalExamResult;
                 }
                 studentAverage[i] = totalExamResult / 3;
@@ -85,6 +85,7 @@ namespace _07_ForeachLoop
 
             }
             #endregion
+
             Console.Read();
         }
     }

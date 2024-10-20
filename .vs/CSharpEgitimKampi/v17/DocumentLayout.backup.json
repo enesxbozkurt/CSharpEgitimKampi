@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\user\\OneDrive - Inforra Bilgi Teknolojileri\\Belgeler\\GitHub\\CSharpEgitimKampi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F65833-F5D6-4ED8-9108-346E375A33D5}|08_Methods\\08_Methods.csproj|c:\\users\\user\\onedrive - inforra bilgi teknolojileri\\belgeler\\github\\csharpegitimkampi\\08_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F65833-F5D6-4ED8-9108-346E375A33D5}|08_Methods\\08_Methods.csproj|solutionrelative:08_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Inforra Bilgi Teknolojileri\\Belgeler\\GitHub\\CSharpEgitimKampi\\08_Methods\\Program.cs",
+              "RelativeDocumentMoniker": "08_Methods\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Inforra Bilgi Teknolojileri\\Belgeler\\GitHub\\CSharpEgitimKampi\\08_Methods\\Program.cs*",
+              "RelativeToolTip": "08_Methods\\Program.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAIA4wIIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:17:43.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

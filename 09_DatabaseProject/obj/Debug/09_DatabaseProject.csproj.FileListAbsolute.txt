@@ -1,0 +1,7 @@
+C:\Users\user\OneDrive - Inforra Bilgi Teknolojileri\Belgeler\GitHub\CSharpEgitimKampi\09_DatabaseProject\bin\Debug\09_DatabaseProject.exe.config
+C:\Users\user\OneDrive - Inforra Bilgi Teknolojileri\Belgeler\GitHub\CSharpEgitimKampi\09_DatabaseProject\bin\Debug\09_DatabaseProject.exe
+C:\Users\user\OneDrive - Inforra Bilgi Teknolojileri\Belgeler\GitHub\CSharpEgitimKampi\09_DatabaseProject\bin\Debug\09_DatabaseProject.pdb
+C:\Users\user\OneDrive - Inforra Bilgi Teknolojileri\Belgeler\GitHub\CSharpEgitimKampi\09_DatabaseProject\obj\Debug\09_DatabaseProject.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Inforra Bilgi Teknolojileri\Belgeler\GitHub\CSharpEgitimKampi\09_DatabaseProject\obj\Debug\09_DatabaseProject.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Inforra Bilgi Teknolojileri\Belgeler\GitHub\CSharpEgitimKampi\09_DatabaseProject\obj\Debug\09_DatabaseProject.exe
+C:\Users\user\OneDrive - Inforra Bilgi Teknolojileri\Belgeler\GitHub\CSharpEgitimKampi\09_DatabaseProject\obj\Debug\09_DatabaseProject.pdb

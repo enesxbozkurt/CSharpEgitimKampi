@@ -4,7 +4,7 @@ Bu repo, sayın hocam Murat Yücedağ eğitmenliğinde gerçekleştirdiğim proj
 
 📝 Proje 1: Merhaba Dünya!
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Yazılıma başlarken olmazsa olmaz kodumuzu yazdık :) Console.WriteLine() ile temel yazdırma işlemini tamamladık.
+Yazılıma başlarken olmazsa olmaz kodumuzu yazdık :) Console.WriteLine() ile temel yazdırma işlemini tamamladım.
 
 🔧 Proje 2: Değişkenler
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------

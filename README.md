@@ -38,3 +38,8 @@ Kullanıcıdan aldığım verileri işleyip değer döndüren fonksiyonlar oluş
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Veri tabanında tablolar oluşturarak veri girişlerini sağladım. Temel SQL sorgu örneklerini kullanarak verileri listelemeyi öğrendim. ADO.NET çerçevesi sayesinde C# ile veri tabanına bağlanarak konsolda kullanıcılara veri tabanındaki verileri gösterebildim.
 
+📊 Proje 10: CRUD İşlemleri
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+C# ile veri tabanı bağlantısı kurarak CRUD (Create, Read, Update, Delete) işlemlerini kapsamlı bir şekilde gerçekleştirdim. Kullanıcıdan aldığım verilerle yeni kayıtlar oluşturup, mevcut verileri güncelleyerek veya silerek veri yönetimini gerçekleştirdin. Uygulama içinde temel SQL sorgularını kullanarak verilerin nasıl düzenlendiğini ve listelediğini deneyimledim.
+
+

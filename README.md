@@ -42,4 +42,6 @@ Veri tabanında tablolar oluşturarak veri girişlerini sağladım. Temel SQL so
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 C# ile veri tabanı bağlantısı kurarak CRUD (Create, Read, Update, Delete) işlemlerini kapsamlı bir şekilde gerçekleştirdim. Kullanıcıdan aldığım verilerle yeni kayıtlar oluşturup, mevcut verileri güncelleyerek veya silerek veri yönetimini gerçekleştirdin. Uygulama içinde temel SQL sorgularını kullanarak verilerin nasıl düzenlendiğini ve listelediğini deneyimledim.
 
-
+Proje 11: N Katmanlı Mimari (Entity Layer) 🔍
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Projelerin baştan sona bir düzen ve bir bütün içerisinde ilerlemesini sağlayacak yapıları öğrendim. N katmanlı mimari ile uygulamalarımın farklı bileşenlerini birbirinden ayırarak, daha modüler ve bakımı kolay sistemler geliştirme imkanı sunduğunu gördüm.

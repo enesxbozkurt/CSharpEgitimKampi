@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\user\\OneDrive - Inforra Bilgi Teknolojileri\\Belgeler\\GitHub\\CSharpEgitimKampi\\CSharpEgitimKampi301\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B2DE56F-3594-403F-9134-A75B6CB6CFD5}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|c:\\users\\user\\onedrive - inforra bilgi teknolojileri\\belgeler\\github\\csharpegitimkampi\\csharpegitimkampi301\\csharpegitimkampi301.efproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2B2DE56F-3594-403F-9134-A75B6CB6CFD5}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|solutionrelative:csharpegitimkampi301.efproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2B2DE56F-3594-403F-9134-A75B6CB6CFD5}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|c:\\users\\user\\onedrive - inforra bilgi teknolojileri\\belgeler\\github\\csharpegitimkampi\\csharpegitimkampi301\\csharpegitimkampi301.efproject\\frmlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2DE56F-3594-403F-9134-A75B6CB6CFD5}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|solutionrelative:csharpegitimkampi301.efproject\\frmlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B2DE56F-3594-403F-9134-A75B6CB6CFD5}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|c:\\users\\user\\onedrive - inforra bilgi teknolojileri\\belgeler\\github\\csharpegitimkampi\\csharpegitimkampi301\\csharpegitimkampi301.efproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B2DE56F-3594-403F-9134-A75B6CB6CFD5}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|solutionrelative:csharpegitimkampi301.efproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B2DE56F-3594-403F-9134-A75B6CB6CFD5}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|c:\\users\\user\\onedrive - inforra bilgi teknolojileri\\belgeler\\github\\csharpegitimkampi\\csharpegitimkampi301\\csharpegitimkampi301.efproject\\frmlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B2DE56F-3594-403F-9134-A75B6CB6CFD5}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|solutionrelative:csharpegitimkampi301.efproject\\frmlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Inforra Bilgi Teknolojileri\\Belgeler\\GitHub\\CSharpEgitimKampi\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\Form1.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EFProject\\Form1.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive - Inforra Bilgi Teknolojileri\\Belgeler\\GitHub\\CSharpEgitimKampi\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\Form1.cs",
-              "RelativeToolTip": "CSharpEgitimKampi301.EFProject\\Form1.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAwwDMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "FrmLocation.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Inforra Bilgi Teknolojileri\\Belgeler\\GitHub\\CSharpEgitimKampi\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmLocation.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EFProject\\FrmLocation.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Inforra Bilgi Teknolojileri\\Belgeler\\GitHub\\CSharpEgitimKampi\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmLocation.cs",
+              "RelativeToolTip": "CSharpEgitimKampi301.EFProject\\FrmLocation.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAA4wE0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T21:34:41.729Z",
+              "WhenOpened": "2024-11-24T17:07:58.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Inforra Bilgi Teknolojileri\\Belgeler\\GitHub\\CSharpEgitimKampi\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\Form1.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EFProject\\Form1.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive - Inforra Bilgi Teknolojileri\\Belgeler\\GitHub\\CSharpEgitimKampi\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\Form1.cs [Design]",
-              "RelativeToolTip": "CSharpEgitimKampi301.EFProject\\Form1.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "FrmLocation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Inforra Bilgi Teknolojileri\\Belgeler\\GitHub\\CSharpEgitimKampi\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmLocation.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EFProject\\FrmLocation.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Inforra Bilgi Teknolojileri\\Belgeler\\GitHub\\CSharpEgitimKampi\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmLocation.cs [Design]",
+              "RelativeToolTip": "CSharpEgitimKampi301.EFProject\\FrmLocation.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T21:24:44.079Z",
+              "WhenOpened": "2024-11-24T16:44:49.908Z",
               "EditorCaption": " [Design]"
             }
           ]

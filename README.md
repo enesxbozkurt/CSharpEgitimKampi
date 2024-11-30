@@ -45,3 +45,11 @@ C# ile veri tabanı bağlantısı kurarak CRUD (Create, Read, Update, Delete) i�
 🔍 Proje 11: N Katmanlı Mimari (Entity Layer) 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Projelerin baştan sona bir düzen ve bir bütün içerisinde ilerlemesini sağlayacak yapıları öğrendim. N katmanlı mimari ile uygulamalarımın farklı bileşenlerini birbirinden ayırarak, daha modüler ve bakımı kolay sistemler geliştirme imkanı sunduğunu gördüm.
+
+İstatistik Form Uygulaması 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+LINQ sorguları yazarak istatistik paneli oluşturtuk.
+
+![image](https://github.com/user-attachments/assets/da980560-302f-46ff-9492-eaa2dc15062d)
+
+

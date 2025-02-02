@@ -12,7 +12,7 @@ namespace CSharpEgitimKampi301.EFProject
     using System;
     using System.Collections.Generic;
     
-    public partial class Customer
+    public class Customer
     {
         public int CustomerId { get; set; }
         public string CustomerName { get; set; }

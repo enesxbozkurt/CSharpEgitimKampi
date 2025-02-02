@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\09_DatabaseProject",
+    "\\10_DatabaseCrud",
+    "\\CSharpEgitimKampi301",
+    "\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject"
   ],
-  "SelectedNode": "\\07_ForeachLoop",
+  "SelectedNode": "\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmStatistics.cs",
   "PreviewInSolutionExplorer": false
 }

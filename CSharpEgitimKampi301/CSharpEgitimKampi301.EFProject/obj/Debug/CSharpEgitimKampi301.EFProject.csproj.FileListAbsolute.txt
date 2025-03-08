@@ -15,3 +15,20 @@ C:\Users\user\OneDrive - Inforra Bilgi Teknolojileri\Belgeler\GitHub\CSharpEgiti
 C:\Users\user\OneDrive - Inforra Bilgi Teknolojileri\Belgeler\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.pdb
 C:\Users\user\OneDrive - Inforra Bilgi Teknolojileri\Belgeler\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.FrmLocation.resources
 C:\Users\user\OneDrive - Inforra Bilgi Teknolojileri\Belgeler\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.FrmStatistics.resources
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\bin\Debug\CSharpEgitimKampi301.EFProject.exe.config
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\bin\Debug\CSharpEgitimKampi301.EFProject.exe
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\bin\Debug\CSharpEgitimKampi301.EFProject.pdb
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\bin\Debug\EntityFramework.dll
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\bin\Debug\EntityFramework.xml
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.Form1.resources
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.FrmLocation.resources
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.FrmStatistics.resources
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.Properties.Resources.resources
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.csproj.GenerateResource.cache
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEg.14093BF7.Up2Date
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.exe
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.pdb

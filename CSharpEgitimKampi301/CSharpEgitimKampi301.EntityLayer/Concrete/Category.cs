@@ -14,6 +14,10 @@ namespace CSharpEgitimKampi301.EntityLayer.Concrete
 
         public List<Product> Products { get; set; }
 
+        public object Where(Func<object, bool> value)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
 

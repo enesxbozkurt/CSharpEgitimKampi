@@ -15,3 +15,20 @@ C:\Users\user\OneDrive - Inforra Bilgi Teknolojileri\Belgeler\GitHub\CSharpEgiti
 C:\Users\user\OneDrive - Inforra Bilgi Teknolojileri\Belgeler\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEgitimKampi301.DataAccessLayer.pdb
 C:\Users\user\OneDrive - Inforra Bilgi Teknolojileri\Belgeler\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEgitimKampi301.DataAccessLayer.csproj.GenerateResource.cache
 C:\Users\user\OneDrive - Inforra Bilgi Teknolojileri\Belgeler\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEgitimKampi301.DataAccessLayer.Migrations.mig1.resources
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\CSharpEgitimKampi301.DataAccessLayer.dll.config
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\CSharpEgitimKampi301.DataAccessLayer.dll
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\CSharpEgitimKampi301.DataAccessLayer.pdb
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.dll
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.pdb
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.dll.config
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEgitimKampi301.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEgitimKampi301.DataAccessLayer.Migrations.mig1.resources
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEgitimKampi301.DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEgitimKampi301.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEg.01C77B6F.Up2Date
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEgitimKampi301.DataAccessLayer.dll
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEgitimKampi301.DataAccessLayer.pdb

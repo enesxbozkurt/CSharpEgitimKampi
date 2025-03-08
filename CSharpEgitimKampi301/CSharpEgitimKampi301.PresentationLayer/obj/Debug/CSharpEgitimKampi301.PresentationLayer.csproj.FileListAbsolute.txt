@@ -14,3 +14,27 @@ C:\Users\user\OneDrive - Inforra Bilgi Teknolojileri\Belgeler\GitHub\CSharpEgiti
 C:\Users\user\OneDrive - Inforra Bilgi Teknolojileri\Belgeler\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\EntityFramework.xml
 C:\Users\user\OneDrive - Inforra Bilgi Teknolojileri\Belgeler\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\user\OneDrive - Inforra Bilgi Teknolojileri\Belgeler\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEg.3E4FD578.Up2Date
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.PresentationLayer.exe.config
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.PresentationLayer.exe
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.PresentationLayer.pdb
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.BusinessLayer.dll
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.DataAccessLayer.dll
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.dll
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\EntityFramework.dll
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.BusinessLayer.pdb
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.DataAccessLayer.pdb
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.DataAccessLayer.dll.config
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.pdb
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.dll.config
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\EntityFramework.xml
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.FrmCategory.resources
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.Properties.Resources.resources
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.csproj.GenerateResource.cache
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEg.3E4FD578.Up2Date
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.exe
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.pdb
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.FrmProduct.resources

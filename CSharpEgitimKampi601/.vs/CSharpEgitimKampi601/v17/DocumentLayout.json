@@ -1,104 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi601\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{94F6DC02-04F2-44AD-A2D8-CDA4CFC07D23}|CSharpEgitimKampi601\\CSharpEgitimKampi601.csproj|c:\\users\\user\\onedrive - inforra bt\\documents\\github\\csharpegitimkampi601\\csharpegitimkampi601\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94F6DC02-04F2-44AD-A2D8-CDA4CFC07D23}|CSharpEgitimKampi601\\CSharpEgitimKampi601.csproj|solutionrelative:csharpegitimkampi601\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94F6DC02-04F2-44AD-A2D8-CDA4CFC07D23}|CSharpEgitimKampi601\\CSharpEgitimKampi601.csproj|c:\\users\\user\\onedrive - inforra bt\\documents\\github\\csharpegitimkampi601\\csharpegitimkampi601\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94F6DC02-04F2-44AD-A2D8-CDA4CFC07D23}|CSharpEgitimKampi601\\CSharpEgitimKampi601.csproj|solutionrelative:csharpegitimkampi601\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94F6DC02-04F2-44AD-A2D8-CDA4CFC07D23}|CSharpEgitimKampi601\\CSharpEgitimKampi601.csproj|c:\\users\\user\\onedrive - inforra bt\\documents\\github\\csharpegitimkampi601\\csharpegitimkampi601\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{94F6DC02-04F2-44AD-A2D8-CDA4CFC07D23}|CSharpEgitimKampi601\\CSharpEgitimKampi601.csproj|solutionrelative:csharpegitimkampi601\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94F6DC02-04F2-44AD-A2D8-CDA4CFC07D23}|CSharpEgitimKampi601\\CSharpEgitimKampi601.csproj|c:\\users\\user\\onedrive - inforra bt\\documents\\github\\csharpegitimkampi601\\csharpegitimkampi601\\services\\mongodbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94F6DC02-04F2-44AD-A2D8-CDA4CFC07D23}|CSharpEgitimKampi601\\CSharpEgitimKampi601.csproj|solutionrelative:csharpegitimkampi601\\services\\mongodbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94F6DC02-04F2-44AD-A2D8-CDA4CFC07D23}|CSharpEgitimKampi601\\CSharpEgitimKampi601.csproj|c:\\users\\user\\onedrive - inforra bt\\documents\\github\\csharpegitimkampi601\\csharpegitimkampi601\\services\\customeroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94F6DC02-04F2-44AD-A2D8-CDA4CFC07D23}|CSharpEgitimKampi601\\CSharpEgitimKampi601.csproj|solutionrelative:csharpegitimkampi601\\services\\customeroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi\\CSharpEgitimKampi601\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi601\\CSharpEgitimKampi601\\Form1.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi601\\Form1.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi601\\CSharpEgitimKampi601\\Form1.cs",
-              "RelativeToolTip": "CSharpEgitimKampi601\\Form1.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAYwCIAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T21:32:29.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi601\\CSharpEgitimKampi601\\Entities\\Customer.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi601\\Entities\\Customer.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi601\\CSharpEgitimKampi601\\Entities\\Customer.cs",
-              "RelativeToolTip": "CSharpEgitimKampi601\\Entities\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T21:24:05.064Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CustomerOperations.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi601\\CSharpEgitimKampi601\\Services\\CustomerOperations.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi601\\Services\\CustomerOperations.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi601\\CSharpEgitimKampi601\\Services\\CustomerOperations.cs",
-              "RelativeToolTip": "CSharpEgitimKampi601\\Services\\CustomerOperations.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T21:17:28.157Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MongoDbConnection.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi601\\CSharpEgitimKampi601\\Services\\MongoDbConnection.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi601\\Services\\MongoDbConnection.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi601\\CSharpEgitimKampi601\\Services\\MongoDbConnection.cs",
-              "RelativeToolTip": "CSharpEgitimKampi601\\Services\\MongoDbConnection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T21:05:51.631Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi601\\CSharpEgitimKampi601\\Form1.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi601\\Form1.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi601\\CSharpEgitimKampi601\\Form1.cs [Design]",
-              "RelativeToolTip": "CSharpEgitimKampi601\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T22:43:47.326Z",
-              "EditorCaption": " [Design]"
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

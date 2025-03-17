@@ -40,11 +40,12 @@
             this.label5 = new System.Windows.Forms.Label();
             this.txtCustomerShoppingCount = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnCustomerList = new System.Windows.Forms.Button();
             this.btnCustomerCreate = new System.Windows.Forms.Button();
             this.btnCustomerDelete = new System.Windows.Forms.Button();
             this.btnCustomerUpdate = new System.Windows.Forms.Button();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.btnGetByCustomerId = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -150,17 +151,18 @@
             this.label6.TabIndex = 10;
             this.label6.Text = "Alışveriş Tutarı:";
             // 
-            // button1
+            // btnCustomerList
             // 
-            this.button1.BackColor = System.Drawing.Color.Red;
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.ForeColor = System.Drawing.Color.Black;
-            this.button1.Location = new System.Drawing.Point(132, 183);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(152, 32);
-            this.button1.TabIndex = 12;
-            this.button1.Text = "Listele";
-            this.button1.UseVisualStyleBackColor = false;
+            this.btnCustomerList.BackColor = System.Drawing.Color.Red;
+            this.btnCustomerList.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCustomerList.ForeColor = System.Drawing.Color.Black;
+            this.btnCustomerList.Location = new System.Drawing.Point(132, 183);
+            this.btnCustomerList.Name = "btnCustomerList";
+            this.btnCustomerList.Size = new System.Drawing.Size(152, 32);
+            this.btnCustomerList.TabIndex = 12;
+            this.btnCustomerList.Text = "Listele";
+            this.btnCustomerList.UseVisualStyleBackColor = false;
+            this.btnCustomerList.Click += new System.EventHandler(this.btnCustomerList_Click);
             // 
             // btnCustomerCreate
             // 
@@ -186,6 +188,7 @@
             this.btnCustomerDelete.TabIndex = 14;
             this.btnCustomerDelete.Text = "Sil";
             this.btnCustomerDelete.UseVisualStyleBackColor = false;
+            this.btnCustomerDelete.Click += new System.EventHandler(this.btnCustomerDelete_Click);
             // 
             // btnCustomerUpdate
             // 
@@ -198,6 +201,7 @@
             this.btnCustomerUpdate.TabIndex = 15;
             this.btnCustomerUpdate.Text = "Güncelle";
             this.btnCustomerUpdate.UseVisualStyleBackColor = false;
+            this.btnCustomerUpdate.Click += new System.EventHandler(this.btnCustomerUpdate_Click);
             // 
             // dataGridView1
             // 
@@ -207,16 +211,30 @@
             this.dataGridView1.Size = new System.Drawing.Size(532, 279);
             this.dataGridView1.TabIndex = 16;
             // 
+            // btnGetByCustomerId
+            // 
+            this.btnGetByCustomerId.BackColor = System.Drawing.Color.Red;
+            this.btnGetByCustomerId.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnGetByCustomerId.ForeColor = System.Drawing.Color.Black;
+            this.btnGetByCustomerId.Location = new System.Drawing.Point(132, 335);
+            this.btnGetByCustomerId.Name = "btnGetByCustomerId";
+            this.btnGetByCustomerId.Size = new System.Drawing.Size(152, 32);
+            this.btnGetByCustomerId.TabIndex = 17;
+            this.btnGetByCustomerId.Text = "Id\'ye Göre Getir";
+            this.btnGetByCustomerId.UseVisualStyleBackColor = false;
+            this.btnGetByCustomerId.Click += new System.EventHandler(this.btnGetByCustomerId_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(854, 366);
+            this.ClientSize = new System.Drawing.Size(854, 400);
+            this.Controls.Add(this.btnGetByCustomerId);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.btnCustomerUpdate);
             this.Controls.Add(this.btnCustomerDelete);
             this.Controls.Add(this.btnCustomerCreate);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnCustomerList);
             this.Controls.Add(this.txtCustomerShoppingCount);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.txtCustomerBalance);
@@ -252,11 +270,12 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.TextBox txtCustomerShoppingCount;
         private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnCustomerList;
         private System.Windows.Forms.Button btnCustomerCreate;
         private System.Windows.Forms.Button btnCustomerDelete;
         private System.Windows.Forms.Button btnCustomerUpdate;
         private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.Button btnGetByCustomerId;
     }
 }
 

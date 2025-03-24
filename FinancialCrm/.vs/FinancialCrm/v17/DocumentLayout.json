@@ -3,19 +3,67 @@
   "WorkspaceRootPath": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi\\FinancialCrm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30DBB1B6-B8A9-4380-9A28-D4DD56BD24FF}|FinancialCrm\\FinancialCrm.csproj|c:\\users\\user\\onedrive - inforra bt\\documents\\github\\csharpegitimkampi\\financialcrm\\financialcrm\\frmbanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{30DBB1B6-B8A9-4380-9A28-D4DD56BD24FF}|FinancialCrm\\FinancialCrm.csproj|C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi\\FinancialCrm\\financialcrm\\frmbanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{30DBB1B6-B8A9-4380-9A28-D4DD56BD24FF}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmbanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DBB1B6-B8A9-4380-9A28-D4DD56BD24FF}|FinancialCrm\\FinancialCrm.csproj|c:\\users\\user\\onedrive - inforra bt\\documents\\github\\csharpegitimkampi\\financialcrm\\financialcrm\\frmbanktransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30DBB1B6-B8A9-4380-9A28-D4DD56BD24FF}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmbanktransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DBB1B6-B8A9-4380-9A28-D4DD56BD24FF}|FinancialCrm\\FinancialCrm.csproj|c:\\users\\user\\onedrive - inforra bt\\documents\\github\\csharpegitimkampi\\financialcrm\\financialcrm\\frmbilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30DBB1B6-B8A9-4380-9A28-D4DD56BD24FF}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmbilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DBB1B6-B8A9-4380-9A28-D4DD56BD24FF}|FinancialCrm\\FinancialCrm.csproj|c:\\users\\user\\onedrive - inforra bt\\documents\\github\\csharpegitimkampi\\financialcrm\\financialcrm\\frmcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30DBB1B6-B8A9-4380-9A28-D4DD56BD24FF}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30DBB1B6-B8A9-4380-9A28-D4DD56BD24FF}|FinancialCrm\\FinancialCrm.csproj|c:\\users\\user\\onedrive - inforra bt\\documents\\github\\csharpegitimkampi\\financialcrm\\financialcrm\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{30DBB1B6-B8A9-4380-9A28-D4DD56BD24FF}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{30DBB1B6-B8A9-4380-9A28-D4DD56BD24FF}|FinancialCrm\\FinancialCrm.csproj|c:\\users\\user\\onedrive - inforra bt\\documents\\github\\csharpegitimkampi\\financialcrm\\financialcrm\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30DBB1B6-B8A9-4380-9A28-D4DD56BD24FF}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DBB1B6-B8A9-4380-9A28-D4DD56BD24FF}|FinancialCrm\\FinancialCrm.csproj|c:\\users\\user\\onedrive - inforra bt\\documents\\github\\csharpegitimkampi\\financialcrm\\financialcrm\\frmsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30DBB1B6-B8A9-4380-9A28-D4DD56BD24FF}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DBB1B6-B8A9-4380-9A28-D4DD56BD24FF}|FinancialCrm\\FinancialCrm.csproj|c:\\users\\user\\onedrive - inforra bt\\documents\\github\\csharpegitimkampi\\financialcrm\\financialcrm\\frmspendings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30DBB1B6-B8A9-4380-9A28-D4DD56BD24FF}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmspendings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DBB1B6-B8A9-4380-9A28-D4DD56BD24FF}|FinancialCrm\\FinancialCrm.csproj|c:\\users\\user\\onedrive - inforra bt\\documents\\github\\csharpegitimkampi\\financialcrm\\financialcrm\\frmbilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30DBB1B6-B8A9-4380-9A28-D4DD56BD24FF}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmbilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{30DBB1B6-B8A9-4380-9A28-D4DD56BD24FF}|FinancialCrm\\FinancialCrm.csproj|c:\\users\\user\\onedrive - inforra bt\\documents\\github\\csharpegitimkampi\\financialcrm\\financialcrm\\frmbanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30DBB1B6-B8A9-4380-9A28-D4DD56BD24FF}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmbanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30DBB1B6-B8A9-4380-9A28-D4DD56BD24FF}|FinancialCrm\\FinancialCrm.csproj|c:\\users\\user\\onedrive - inforra bt\\documents\\github\\csharpegitimkampi\\financialcrm\\financialcrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30DBB1B6-B8A9-4380-9A28-D4DD56BD24FF}|FinancialCrm\\FinancialCrm.csproj|c:\\users\\user\\onedrive - inforra bt\\documents\\github\\csharpegitimkampi\\financialcrm\\financialcrm\\frmbanktransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30DBB1B6-B8A9-4380-9A28-D4DD56BD24FF}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmbanktransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DBB1B6-B8A9-4380-9A28-D4DD56BD24FF}|FinancialCrm\\FinancialCrm.csproj|c:\\users\\user\\onedrive - inforra bt\\documents\\github\\csharpegitimkampi\\financialcrm\\financialcrm\\frmspendings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30DBB1B6-B8A9-4380-9A28-D4DD56BD24FF}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmspendings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DBB1B6-B8A9-4380-9A28-D4DD56BD24FF}|FinancialCrm\\FinancialCrm.csproj|c:\\users\\user\\onedrive - inforra bt\\documents\\github\\csharpegitimkampi\\financialcrm\\financialcrm\\frmcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30DBB1B6-B8A9-4380-9A28-D4DD56BD24FF}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DBB1B6-B8A9-4380-9A28-D4DD56BD24FF}|FinancialCrm\\FinancialCrm.csproj|c:\\users\\user\\onedrive - inforra bt\\documents\\github\\csharpegitimkampi\\financialcrm\\financialcrm\\frmsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30DBB1B6-B8A9-4380-9A28-D4DD56BD24FF}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DBB1B6-B8A9-4380-9A28-D4DD56BD24FF}|FinancialCrm\\FinancialCrm.csproj|c:\\users\\user\\onedrive - inforra bt\\documents\\github\\csharpegitimkampi\\financialcrm\\financialcrm\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30DBB1B6-B8A9-4380-9A28-D4DD56BD24FF}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DBB1B6-B8A9-4380-9A28-D4DD56BD24FF}|FinancialCrm\\FinancialCrm.csproj|C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi\\FinancialCrm\\financialcrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30DBB1B6-B8A9-4380-9A28-D4DD56BD24FF}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,33 +74,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "FrmBanks.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi\\FinancialCrm\\FinancialCrm\\FrmBanks.cs",
               "RelativeDocumentMoniker": "FinancialCrm\\FrmBanks.cs",
               "ToolTip": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi\\FinancialCrm\\FinancialCrm\\FrmBanks.cs",
               "RelativeToolTip": "FinancialCrm\\FrmBanks.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAWwGIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T22:24:17.868Z",
+              "WhenOpened": "2025-03-24T20:08:00.986Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmBilling.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi\\FinancialCrm\\FinancialCrm\\FrmBilling.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmBilling.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi\\FinancialCrm\\FinancialCrm\\FrmBilling.cs",
+              "RelativeToolTip": "FinancialCrm\\FrmBilling.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAWwH4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:21:10.972Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi\\FinancialCrm\\FinancialCrm\\Program.cs",
-              "RelativeDocumentMoniker": "FinancialCrm\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi\\FinancialCrm\\FinancialCrm\\Program.cs",
-              "RelativeToolTip": "FinancialCrm\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Title": "FrmCategories.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi\\FinancialCrm\\FinancialCrm\\FrmCategories.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmCategories.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi\\FinancialCrm\\FinancialCrm\\FrmCategories.cs [Design]",
+              "RelativeToolTip": "FinancialCrm\\FrmCategories.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T21:14:45.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-24T20:30:41.172Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmBilling.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi\\FinancialCrm\\FinancialCrm\\FrmBilling.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmBilling.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi\\FinancialCrm\\FinancialCrm\\FrmBilling.cs [Design]",
+              "RelativeToolTip": "FinancialCrm\\FrmBilling.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:29:56.79Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmBankTransactions.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi\\FinancialCrm\\FinancialCrm\\FrmBankTransactions.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmBankTransactions.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi\\FinancialCrm\\FinancialCrm\\FrmBankTransactions.cs [Design]",
+              "RelativeToolTip": "FinancialCrm\\FrmBankTransactions.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:05:58.874Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi\\FinancialCrm\\FinancialCrm\\FrmDashboard.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmDashboard.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi\\FinancialCrm\\FinancialCrm\\FrmDashboard.cs [Design]",
+              "RelativeToolTip": "FinancialCrm\\FrmDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T04:28:38.228Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi\\FinancialCrm\\FinancialCrm\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi\\FinancialCrm\\FinancialCrm\\FrmLogin.cs [Design]",
+              "RelativeToolTip": "FinancialCrm\\FrmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:37:29.092Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -68,15 +178,105 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FrmDashboard.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi\\FinancialCrm\\FinancialCrm\\FrmDashboard.cs",
-              "RelativeDocumentMoniker": "FinancialCrm\\FrmDashboard.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi\\FinancialCrm\\FinancialCrm\\FrmDashboard.cs [Design]",
-              "RelativeToolTip": "FinancialCrm\\FrmDashboard.cs [Design]",
+              "DocumentIndex": 7,
+              "Title": "FrmSpendings.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi\\FinancialCrm\\FinancialCrm\\FrmSpendings.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmSpendings.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi\\FinancialCrm\\FinancialCrm\\FrmSpendings.cs [Design]",
+              "RelativeToolTip": "FinancialCrm\\FrmSpendings.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T21:34:44.812Z",
+              "WhenOpened": "2025-03-24T20:22:48.316Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmSettings.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi\\FinancialCrm\\FinancialCrm\\FrmSettings.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmSettings.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi\\FinancialCrm\\FinancialCrm\\FrmSettings.cs [Design]",
+              "RelativeToolTip": "FinancialCrm\\FrmSettings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:50:39.971Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmBankTransactions.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi\\FinancialCrm\\FinancialCrm\\FrmBankTransactions.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmBankTransactions.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi\\FinancialCrm\\FinancialCrm\\FrmBankTransactions.cs",
+              "RelativeToolTip": "FinancialCrm\\FrmBankTransactions.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAjwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:08:10.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmSpendings.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi\\FinancialCrm\\FinancialCrm\\FrmSpendings.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmSpendings.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi\\FinancialCrm\\FinancialCrm\\FrmSpendings.cs",
+              "RelativeToolTip": "FinancialCrm\\FrmSpendings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:23:17.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmCategories.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi\\FinancialCrm\\FinancialCrm\\FrmCategories.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmCategories.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi\\FinancialCrm\\FinancialCrm\\FrmCategories.cs",
+              "RelativeToolTip": "FinancialCrm\\FrmCategories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:18:40.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmSettings.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi\\FinancialCrm\\FinancialCrm\\FrmSettings.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmSettings.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi\\FinancialCrm\\FinancialCrm\\FrmSettings.cs",
+              "RelativeToolTip": "FinancialCrm\\FrmSettings.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAWwDMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:52:34.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi\\FinancialCrm\\FinancialCrm\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi\\FinancialCrm\\FinancialCrm\\FrmLogin.cs",
+              "RelativeToolTip": "FinancialCrm\\FrmLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:40:10.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi\\FinancialCrm\\FinancialCrm\\Program.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Inforra BT\\Documents\\GitHub\\CSharpEgitimKampi\\FinancialCrm\\FinancialCrm\\Program.cs",
+              "RelativeToolTip": "FinancialCrm\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T21:10:58.509Z",
+              "EditorCaption": ""
             }
           ]
         }

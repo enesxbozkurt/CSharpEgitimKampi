@@ -8,3 +8,15 @@ C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\Financial
 C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\FinancialCrm\FinancialCrm\obj\Debug\FinancialCrm.csproj.CoreCompileInputs.cache
 C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\FinancialCrm\FinancialCrm\obj\Debug\FinancialCrm.exe
 C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\FinancialCrm\FinancialCrm\obj\Debug\FinancialCrm.pdb
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\FinancialCrm\FinancialCrm\bin\Debug\EntityFramework.dll
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\FinancialCrm\FinancialCrm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\FinancialCrm\FinancialCrm\bin\Debug\EntityFramework.xml
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\FinancialCrm\FinancialCrm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\FinancialCrm\FinancialCrm\obj\Debug\Financia.1DE9CF8F.Up2Date
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\FinancialCrm\FinancialCrm\obj\Debug\FinancialCrm.FrmBilling.resources
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\FinancialCrm\FinancialCrm\obj\Debug\FinancialCrm.FrmDashboard.resources
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\FinancialCrm\FinancialCrm\obj\Debug\FinancialCrm.FrmLogin.resources
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\FinancialCrm\FinancialCrm\obj\Debug\FinancialCrm.FrmSettings.resources
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\FinancialCrm\FinancialCrm\obj\Debug\FinancialCrm.FrmBankTransactions.resources
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\FinancialCrm\FinancialCrm\obj\Debug\FinancialCrm.FrmCategories.resources
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\FinancialCrm\FinancialCrm\obj\Debug\FinancialCrm.FrmSpendings.resources

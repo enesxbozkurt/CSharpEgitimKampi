@@ -155,6 +155,9 @@ Chart: Banka bakiyeleri ve faturalar görselleştirildi.
 
 ![image](https://github.com/user-attachments/assets/d48233d4-e22e-458d-adda-bb3e0fdec899)
 
+![image](https://github.com/user-attachments/assets/5f0a84cc-b22f-4900-9751-5d37f9377230)
+
+
 ![image](https://github.com/user-attachments/assets/90830eb5-f5ce-4215-b94e-3ac24087b16e)
 
 

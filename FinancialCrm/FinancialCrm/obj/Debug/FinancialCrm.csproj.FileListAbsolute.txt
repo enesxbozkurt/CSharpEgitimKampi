@@ -20,3 +20,7 @@ C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\Financial
 C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\FinancialCrm\FinancialCrm\obj\Debug\FinancialCrm.FrmBankTransactions.resources
 C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\FinancialCrm\FinancialCrm\obj\Debug\FinancialCrm.FrmCategories.resources
 C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\FinancialCrm\FinancialCrm\obj\Debug\FinancialCrm.FrmSpendings.resources
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\FinancialCrm\FinancialCrm\bin\Debug\FinancialCrm.exe.manifest
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\FinancialCrm\FinancialCrm\bin\Debug\FinancialCrm.application
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\FinancialCrm\FinancialCrm\obj\Debug\FinancialCrm.exe.manifest
+C:\Users\user\OneDrive - Inforra BT\Documents\GitHub\CSharpEgitimKampi\FinancialCrm\FinancialCrm\obj\Debug\FinancialCrm.application
